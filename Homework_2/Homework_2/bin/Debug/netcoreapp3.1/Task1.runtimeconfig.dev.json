@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\cveta\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\cveta\\.nuget\\packages"
+    ]
+  }
+}
