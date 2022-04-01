@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Inheritance/1.0.0": {
+        "dependencies": {
+          "LibraryForInheritance": "1.0.0"
+        },
+        "runtime": {
+          "Inheritance.dll": {}
+        }
+      },
+      "LibraryForInheritance/1.0.0": {
+        "runtime": {
+          "LibraryForInheritance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibraryForInheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
