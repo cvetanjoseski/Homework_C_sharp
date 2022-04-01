@@ -1,0 +1,8 @@
+C:\Users\cveta\Source\Repos\cvetanjoseski\ClassWork_C_sharp\Inheritance\LibraryForInheritance\bin\Debug\netcoreapp3.1\LibraryForInheritance.deps.json
+C:\Users\cveta\Source\Repos\cvetanjoseski\ClassWork_C_sharp\Inheritance\LibraryForInheritance\bin\Debug\netcoreapp3.1\LibraryForInheritance.dll
+C:\Users\cveta\Source\Repos\cvetanjoseski\ClassWork_C_sharp\Inheritance\LibraryForInheritance\bin\Debug\netcoreapp3.1\LibraryForInheritance.pdb
+C:\Users\cveta\Source\Repos\cvetanjoseski\ClassWork_C_sharp\Inheritance\LibraryForInheritance\obj\Debug\netcoreapp3.1\LibraryForInheritance.AssemblyInfoInputs.cache
+C:\Users\cveta\Source\Repos\cvetanjoseski\ClassWork_C_sharp\Inheritance\LibraryForInheritance\obj\Debug\netcoreapp3.1\LibraryForInheritance.AssemblyInfo.cs
+C:\Users\cveta\Source\Repos\cvetanjoseski\ClassWork_C_sharp\Inheritance\LibraryForInheritance\obj\Debug\netcoreapp3.1\LibraryForInheritance.csproj.CoreCompileInputs.cache
+C:\Users\cveta\Source\Repos\cvetanjoseski\ClassWork_C_sharp\Inheritance\LibraryForInheritance\obj\Debug\netcoreapp3.1\LibraryForInheritance.dll
+C:\Users\cveta\Source\Repos\cvetanjoseski\ClassWork_C_sharp\Inheritance\LibraryForInheritance\obj\Debug\netcoreapp3.1\LibraryForInheritance.pdb
