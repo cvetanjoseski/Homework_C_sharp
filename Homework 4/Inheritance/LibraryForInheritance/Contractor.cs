@@ -25,6 +25,7 @@ namespace LibraryForInheritance
         public void CurrentPostion()
         {
             Console.WriteLine($"The manager for {FirstName} {LastName} is in {Responsible.Department} department.");
-        }               
+        }
+
     }
 }

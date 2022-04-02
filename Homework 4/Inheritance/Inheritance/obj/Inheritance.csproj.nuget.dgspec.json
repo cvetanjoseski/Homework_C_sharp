@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Cvetan.josheski\\source\\repos\\cvetanjoseski\\Homework_C_sharp\\Homework 4\\Inheritance\\Inheritance\\Inheritance.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cvetan.josheski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\Users\\cveta\\Source\\Repos\\cvetanjoseski\\ClassWork_C_sharp\\Inheritance\\Inheritance\\Inheritance.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cveta\\Source\\Repos\\cvetanjoseski\\ClassWork_C_sharp\\Inheritance\\Inheritance\\Inheritance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cveta\\Source\\Repos\\cvetanjoseski\\ClassWork_C_sharp\\Inheritance\\Inheritance\\Inheritance.csproj",
+        "projectName": "Inheritance",
+        "projectPath": "C:\\Users\\cveta\\Source\\Repos\\cvetanjoseski\\ClassWork_C_sharp\\Inheritance\\Inheritance\\Inheritance.csproj",
+        "packagesPath": "C:\\Users\\cveta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cveta\\Source\\Repos\\cvetanjoseski\\ClassWork_C_sharp\\Inheritance\\Inheritance\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cveta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> ef811b0d78089a91e9006696e78e6241d4b2f781
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,10 +43,16 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+<<<<<<< HEAD
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
               "C:\\Users\\Cvetan.josheski\\source\\repos\\cvetanjoseski\\Homework_C_sharp\\Homework 4\\Inheritance\\LibraryForInheritance\\LibraryForInheritance.csproj": {
                 "projectPath": "C:\\Users\\Cvetan.josheski\\source\\repos\\cvetanjoseski\\Homework_C_sharp\\Homework 4\\Inheritance\\LibraryForInheritance\\LibraryForInheritance.csproj"
+=======
+            "projectReferences": {
+              "C:\\Users\\cveta\\Source\\Repos\\cvetanjoseski\\ClassWork_C_sharp\\Inheritance\\LibraryForInheritance\\LibraryForInheritance.csproj": {
+                "projectPath": "C:\\Users\\cveta\\Source\\Repos\\cvetanjoseski\\ClassWork_C_sharp\\Inheritance\\LibraryForInheritance\\LibraryForInheritance.csproj"
+>>>>>>> ef811b0d78089a91e9006696e78e6241d4b2f781
               }
             }
           }
@@ -42,7 +65,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+<<<<<<< HEAD
           "targetAlias": "netcoreapp3.1",
+=======
+>>>>>>> ef811b0d78089a91e9006696e78e6241d4b2f781
           "imports": [
             "net461",
             "net462",
@@ -58,6 +84,7 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
@@ -73,6 +100,23 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cvetan.josheski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\cveta\\Source\\Repos\\cvetanjoseski\\ClassWork_C_sharp\\Inheritance\\LibraryForInheritance\\LibraryForInheritance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cveta\\Source\\Repos\\cvetanjoseski\\ClassWork_C_sharp\\Inheritance\\LibraryForInheritance\\LibraryForInheritance.csproj",
+        "projectName": "LibraryForInheritance",
+        "projectPath": "C:\\Users\\cveta\\Source\\Repos\\cvetanjoseski\\ClassWork_C_sharp\\Inheritance\\LibraryForInheritance\\LibraryForInheritance.csproj",
+        "packagesPath": "C:\\Users\\cveta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cveta\\Source\\Repos\\cvetanjoseski\\ClassWork_C_sharp\\Inheritance\\LibraryForInheritance\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cveta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> ef811b0d78089a91e9006696e78e6241d4b2f781
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -84,7 +128,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+<<<<<<< HEAD
             "targetAlias": "netcoreapp3.1",
+=======
+>>>>>>> ef811b0d78089a91e9006696e78e6241d4b2f781
             "projectReferences": {}
           }
         },
@@ -96,7 +143,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+<<<<<<< HEAD
           "targetAlias": "netcoreapp3.1",
+=======
+>>>>>>> ef811b0d78089a91e9006696e78e6241d4b2f781
           "imports": [
             "net461",
             "net462",
@@ -112,7 +162,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+>>>>>>> ef811b0d78089a91e9006696e78e6241d4b2f781
         }
       }
     }

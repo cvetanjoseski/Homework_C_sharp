@@ -29,6 +29,6 @@ namespace LibraryForInheritance
         public override double GetSalary()
         {
             return Salary + (SharesProperty * _sharesPrice);
-        }       
+        }
     }
 }

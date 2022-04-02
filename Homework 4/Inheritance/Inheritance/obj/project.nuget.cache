@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "9Hmtl0sNcp6D5aQ+uY8qNkKKlwKISYjCwgZA/1yEP/vHQ35pUhTrlXeqlP18mYLuGdWOJc7+zyrl+Yn0RBsERw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Cvetan.josheski\\source\\repos\\cvetanjoseski\\Homework_C_sharp\\Homework 4\\Inheritance\\Inheritance\\Inheritance.csproj",
+=======
+  "dgSpecHash": "QAUd7Ht49Ikd2cVw4taXVmZLfaeZu7lrqamruomPq5DAU9BNSp9UZxZAfgXX8lTn+mXuZ+a5hJCeqxt8TzwB0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cveta\\Source\\Repos\\cvetanjoseski\\ClassWork_C_sharp\\Inheritance\\Inheritance\\Inheritance.csproj",
+>>>>>>> ef811b0d78089a91e9006696e78e6241d4b2f781
   "expectedPackageFiles": [],
   "logs": []
 }
